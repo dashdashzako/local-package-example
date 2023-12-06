@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "units": "file:../backend/domain/units",
+    "@dr2/units": "file:../backend/domain/units",
     "vue": "^3.3.10"
   },
   "devDependencies": {
